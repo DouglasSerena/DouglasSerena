@@ -13,16 +13,19 @@
 <h3 align="center">Technologies thast i use!</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/language-TypeScript-blue"/>
-    <img src="https://img.shields.io/badge/language-C Shap-blue"/>
-    <img src="https://img.shields.io/badge/Framework-Node-brightgreen"/>
-    <img src="https://img.shields.io/badge/Framework-Angular-orange"/>
-    <img src="https://img.shields.io/badge/Framework-React-blue"/>
+    <img src="https://img.shields.io/badge/framework-Node-brightgreen"/>
+    <img src="https://img.shields.io/badge/framework-Angular-orange"/>
+    <img src="https://img.shields.io/badge/framework-React-blue"/>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
     <img src="https://img.shields.io/badge/language-HTML-red"/>
     <img src="https://img.shields.io/badge/language-css-blue"/>
     <img src="https://img.shields.io/badge/language-scss-purple"/>
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/language-c shap-blue"/>
+    <img src="https://img.shields.io/badge/framework-dotnet-blue"/>
 </p>
 
 <h5 align="center">In case you want to see some projects made by me <a href="https://douglasserena.github.io/DouglasSerena/" target="blank">click-here</a></h5>
