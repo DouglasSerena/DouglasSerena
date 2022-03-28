@@ -34,13 +34,13 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/douglas-serena-44ab721a0/" target="blank">
-        <img align="center" src="/images/linkedin.svg" alt="DouglasSerena" height="20" width="20" />
+        <img align="center" src="/assets/svgs/linkedin.svg" alt="DouglasSerena" height="20" width="20" />
     </a>
     <a href="https://www.facebook.com/douglas.serena.9" target="blank">
-        <img align="center" src="/images/facebook.svg" alt="DouglasSerena" height="20" width="20" />
+        <img align="center" src="/assets/svgs/facebook.svg" alt="DouglasSerena" height="20" width="20" />
     </a>
     <a href="https://www.instagram.com/douglas_serena/?hl=pt-br" target="blank">
-        <img align="center" src="/images/instagram.svg" alt="DouglasSerena" height="20" width="20" />
+        <img align="center" src="/assets/svgs/instagram.svg" alt="DouglasSerena" height="20" width="20" />
     </a>
 </p>
 
