@@ -6,7 +6,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasSerena&show_icons=true&count_private=true&theme=omni" />
     </a>
     <a href="https://github.com/DouglasSerena">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSerena&layout=compact&theme=omni" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSerena&layout=compact&count_private=true&theme=omni" />
     </a>
 </div>
 
