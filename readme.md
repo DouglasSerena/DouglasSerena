@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/language-scss-purple"/>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/language-c shap-blue"/>
+    <img src="https://img.shields.io/badge/language-c%23-blue"/>
     <img src="https://img.shields.io/badge/framework-dotnet-blue"/>
 </p>
 
