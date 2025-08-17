@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my humble GitHub !!!</h1>
-<p align="center">My name is Douglas currently 23 years old</p>
+<p align="center">My name is Douglas Serena</p>
 
 <div align="center">
     <a href="https://github.com/DouglasSerena">
@@ -28,8 +28,6 @@
     <img src="https://img.shields.io/badge/framework-dotnet-blue"/>
 </p>
 
-<h5 align="center">In case you want to see some projects made by me <a href="https://douglasserena.github.io/DouglasSerena/" target="blank">click-here</a></h5>
-
 <h3 align="center">About my building</h3>
 
 <p align="center">
@@ -44,4 +42,4 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/DouglasSerena/DouglasSerena/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/DouglasSerena/DouglasSerena/blob/output/github-contribution-grid-snake.svg)
